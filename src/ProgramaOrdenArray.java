@@ -19,6 +19,8 @@ public class ProgramaOrdenArray {
             System.out.print(array[i] + " ");
         }
         System.out.println();
+        scanner.close();
     }
+    
 }
 
